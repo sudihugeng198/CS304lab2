@@ -2,6 +2,8 @@ package com.google.gwt.sample.stockwatcher.client;
 
 import java.io.Serializable;
 
+// this is first test change of file
+
 public class LoginInfo implements Serializable {
 
   private boolean loggedIn = false;
